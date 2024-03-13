@@ -1,6 +1,8 @@
 fsnotify is a Go library to provide cross-platform filesystem notifications on
 Windows, Linux, macOS, BSD, and illumos.
 
+> This is a fork for adding additional events for Linux inotify backend.
+
 Go 1.17 or newer is required; the full documentation is at
 https://pkg.go.dev/github.com/fsnotify/fsnotify
 
